@@ -9,10 +9,10 @@
 ## Download
 
 you can download the latest version of this theme in kde-store.
-[<p align="left">
-          <img width="256" height="256" src="https://github.com/zayronxio/Plasma-MojaveCT/blob/master/preview/download-kde-store.svg">
+<p align="left">
+         [ <img width="256" height="256" src="https://github.com/zayronxio/Plasma-MojaveCT/blob/master/preview/download-kde-store.svg">](https://www.opendesktop.org/p/1289021/)
 </p>
-](https://www.opendesktop.org/p/1289021/)
+
 Other text
 
 
