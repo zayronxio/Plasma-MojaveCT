@@ -9,9 +9,7 @@
 ## Download
 
 you can download the latest version of this theme in kde-store.
-
-[![MojaveCT](https://github.com/zayronxio/Plasma-MojaveCT/blob/master/preview/download-kde-store.svg)](https://www.opendesktop.org/p/1289021/)
-
+[<img src="https://github.com/zayronxio/Plasma-MojaveCT/blob/master/preview/donwload-kde-store.svg">](https://www.opendesktop.org/p/1289021/)
 
 
 
