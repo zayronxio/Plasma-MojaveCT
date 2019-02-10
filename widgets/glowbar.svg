@@ -15,7 +15,7 @@
    viewBox="0 0 56 56"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="glowbar.svg">
   <defs
      id="defs4">
@@ -25,7 +25,7 @@
       <stop
          id="stop898"
          offset="0"
-         style="stop-color:#ff6376;stop-opacity:1" />
+         style="stop-color:#2293ff;stop-opacity:1" />
       <stop
          id="stop900"
          offset="1"
@@ -37,7 +37,7 @@
       <stop
          id="stop892"
          offset="0"
-         style="stop-color:#ff6376;stop-opacity:1" />
+         style="stop-color:#2293ff;stop-opacity:1" />
       <stop
          id="stop894"
          offset="1"
@@ -49,7 +49,7 @@
       <stop
          id="stop886"
          offset="0"
-         style="stop-color:#ff6376;stop-opacity:1" />
+         style="stop-color:#2293ff;stop-opacity:1" />
       <stop
          id="stop888"
          offset="1"
@@ -61,7 +61,7 @@
       <stop
          id="stop880"
          offset="0"
-         style="stop-color:#ff6376;stop-opacity:1" />
+         style="stop-color:#2293ff;stop-opacity:1" />
       <stop
          id="stop882"
          offset="1"
@@ -73,7 +73,7 @@
       <stop
          id="stop874"
          offset="0"
-         style="stop-color:#ff6376;stop-opacity:1" />
+         style="stop-color:#2293ff;stop-opacity:1" />
       <stop
          id="stop876"
          offset="1"
@@ -85,7 +85,7 @@
       <stop
          id="stop868"
          offset="0"
-         style="stop-color:#ff6376;stop-opacity:1" />
+         style="stop-color:#2293ff;stop-opacity:1" />
       <stop
          id="stop870"
          offset="1"
@@ -97,7 +97,7 @@
       <stop
          id="stop862"
          offset="0"
-         style="stop-color:#ff6376;stop-opacity:1" />
+         style="stop-color:#2293ff;stop-opacity:1" />
       <stop
          id="stop864"
          offset="1"
@@ -119,7 +119,7 @@
        inkscape:collect="always"
        id="linearGradient4176">
       <stop
-         style="stop-color:#ff6376;stop-opacity:1"
+         style="stop-color:#2293ff;stop-opacity:1"
          offset="0"
          id="stop4178" />
       <stop
@@ -299,8 +299,8 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="24.440083"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="15.336083"
      inkscape:cy="27.443305"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -309,9 +309,9 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      showguides="true"
      fit-margin-top="0"

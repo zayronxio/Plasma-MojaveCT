@@ -12,7 +12,7 @@ ForegroundNormal=255,255,255
 
 [Colors:View]
 BackgroundNormal=255,255,255
-DecorationFocus=39,158,244
+DecorationFocus=36,176,244
 DecorationHover=38,138,255
 ForegroundNormal=32,32,32
 

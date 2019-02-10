@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    width="90"
    height="125"
    sodipodi:docname="lineedit.svg"
@@ -22,7 +22,7 @@
    inkscape:export-ydpi="90"
    version="1.0">
   <sodipodi:namedview
-     inkscape:window-height="1031"
+     inkscape:window-height="1026"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -33,11 +33,11 @@
      bordercolor="#666666"
      pagecolor="#4c183d"
      id="base"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="42.330406"
-     inkscape:cy="47.26931"
+     inkscape:zoom="11.313709"
+     inkscape:cx="55.323493"
+     inkscape:cy="31.712961"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="30"
      inkscape:current-layer="svg2"
      showgrid="true"
      showguides="true"
@@ -429,7 +429,7 @@
        height="1"
        width="80"
        id="rect4049"
-       style="color:#3daee9;fill:#ff597d;fill-opacity:1;stroke:none"
+       style="color:#3daee9;fill:#2293ff;fill-opacity:1;stroke:none"
        class="ColorScheme-ViewFocus" />
     <rect
        y="-36"
@@ -459,7 +459,7 @@
        class="ColorScheme-ViewFocus"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#3daee9;fill:#ff597d;fill-opacity:1;stroke:none"
+       style="color:#3daee9;fill:#2293ff;fill-opacity:1;stroke:none"
        d="m 115,7 v 1 c 0.55228,0 1,0.4477153 1,1 h 1 c 0,-1.1045695 -0.89543,-2 -2,-2 z"
        transform="translate(115,-44)"
        id="path3863"
@@ -495,7 +495,7 @@
        style="color:#fcfcfc;opacity:0.01000001;fill:#f5f4f4;fill-opacity:1;stroke:none"
        class="ColorScheme-ViewBackground" />
     <rect
-       style="color:#3daee9;opacity:1;fill:#f1686f;fill-opacity:1;stroke:none"
+       style="color:#3daee9;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
        id="rect4091"
        width="80"
        height="1"
@@ -536,7 +536,7 @@
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#3daee9;fill:#f1686f;fill-opacity:1;stroke:none"
+       style="color:#3daee9;fill:#2293ff;fill-opacity:1;stroke:none"
        d="m 230,-35 v 1 c 0.55228,0 1,0.447715 1,1 h 1 c 0,-1.104569 -0.89543,-2 -2,-2 z"
        id="path3863-2"
        class="ColorScheme-ViewFocus" />
@@ -810,7 +810,7 @@
        height="20"
        width="1"
        id="rect3865"
-       style="color:#3daee9;fill:#ff597d;fill-opacity:1;stroke:none"
+       style="color:#3daee9;fill:#2293ff;fill-opacity:1;stroke:none"
        inkscape:label="#rect4065"
        class="ColorScheme-ViewFocus" />
     <rect
@@ -845,7 +845,7 @@
        height="20"
        width="1"
        id="rect3865-0"
-       style="color:#3daee9;fill:#ff597d;fill-opacity:1;stroke:none"
+       style="color:#3daee9;fill:#2293ff;fill-opacity:1;stroke:none"
        inkscape:label="#rect4065"
        class="ColorScheme-ViewFocus" />
     <rect
@@ -866,7 +866,7 @@
     <path
        id="path3946"
        d="m 116,31 c 0,0.552285 -0.44772,1 -1,1 v 1 c 1.10457,0 2,-0.895431 2,-2 z"
-       style="color:#3daee9;fill:#ff597d;fill-opacity:1;stroke:none"
+       style="color:#3daee9;fill:#2293ff;fill-opacity:1;stroke:none"
        class="ColorScheme-ViewFocus"
        inkscape:connector-curvature="0" />
     <path
@@ -906,7 +906,7 @@
     <rect
        class="ColorScheme-ViewFocus"
        inkscape:label="#rect4063"
-       style="color:#3daee9;fill:#ff597d;fill-opacity:1;stroke:none"
+       style="color:#3daee9;fill:#2293ff;fill-opacity:1;stroke:none"
        id="rect4063-1"
        width="80"
        height="1"
@@ -930,7 +930,7 @@
        inkscape:connector-curvature="0"
        id="path3946-0"
        d="m 116,31 c 0,0.552285 -0.44772,1 -1,1 v 1 c 1.10457,0 2,-0.895431 2,-2 z"
-       style="color:#3daee9;fill:#ff597d;fill-opacity:1;stroke:none"
+       style="color:#3daee9;fill:#2293ff;fill-opacity:1;stroke:none"
        class="ColorScheme-ViewFocus" />
     <path
        sodipodi:end="4.712389"
@@ -966,7 +966,7 @@
        class="ColorScheme-ViewFocus" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#3daee9;fill:#ff597d;fill-opacity:1;stroke:none"
+       style="color:#3daee9;fill:#2293ff;fill-opacity:1;stroke:none"
        d="m 115,7 v 1 c 0.55228,0 1,0.4477153 1,1 h 1 c 0,-1.1045695 -0.89543,-2 -2,-2 z"
        transform="translate(115,-44)"
        id="path3863-9"
@@ -1004,7 +1004,7 @@
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#3daee9;fill:#f1686f;fill-opacity:1;stroke:none"
+       style="color:#3daee9;fill:#2293ff;fill-opacity:1;stroke:none"
        d="m 230,-35 v 1 c 0.55228,0 1,0.447715 1,1 h 1 c 0,-1.104569 -0.89543,-2 -2,-2 z"
        id="path3863-2-7"
        class="ColorScheme-ViewFocus" />
@@ -1024,7 +1024,7 @@
        id="rect4107"
        style="color:#3daee9;opacity:0.01000001;fill:#37a4f5;fill-opacity:1;stroke:none" />
     <rect
-       style="color:#3daee9;opacity:1;fill:#f1686f;fill-opacity:1;stroke:none"
+       style="color:#3daee9;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
        id="rect4159"
        width="1"
        height="20"
@@ -1063,7 +1063,7 @@
        height="20"
        width="1"
        id="rect4165"
-       style="color:#3daee9;opacity:1;fill:#f1686f;fill-opacity:1;stroke:none"
+       style="color:#3daee9;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
        inkscape:label="#rect4095"
        class="ColorScheme-ViewHover" />
     <rect
@@ -1101,7 +1101,7 @@
        class="ColorScheme-ViewHover" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#3daee9;fill:#f1686f;fill-opacity:1;stroke:none"
+       style="color:#3daee9;fill:#2293ff;fill-opacity:1;stroke:none"
        d="m 230,-35 v 1 c 0.55228,0 1,0.447715 1,1 h 1 c 0,-1.104569 -0.89543,-2 -2,-2 z"
        id="path3863-2-5"
        class="ColorScheme-ViewFocus" />
@@ -1118,7 +1118,7 @@
        height="1"
        width="80"
        id="rect4105"
-       style="color:#3daee9;opacity:1;fill:#f1686f;fill-opacity:1;stroke:none" />
+       style="color:#3daee9;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none" />
     <rect
        style="color:#3daee9;opacity:0.01000001;fill:#37a4f5;fill-opacity:1;stroke:none"
        id="rect4195"
@@ -1163,7 +1163,7 @@
        class="ColorScheme-ViewHover" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#3daee9;fill:#f1686f;fill-opacity:1;stroke:none"
+       style="color:#3daee9;fill:#2293ff;fill-opacity:1;stroke:none"
        d="m 230,-35 v 1 c 0.55228,0 1,0.447715 1,1 h 1 c 0,-1.104569 -0.89543,-2 -2,-2 z"
        id="path3863-2-5-8"
        class="ColorScheme-ViewFocus" />

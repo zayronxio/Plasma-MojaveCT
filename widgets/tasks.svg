@@ -12,7 +12,7 @@
    width="300"
    height="300"
    version="1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="tasks.svg">
   <sodipodi:namedview
      pagecolor="#4c183d"
@@ -23,17 +23,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1860"
-     inkscape:window-height="1031"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview89"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:zoom="2.8284271"
-     inkscape:cx="112.73866"
-     inkscape:cy="131.23342"
-     inkscape:window-x="60"
-     inkscape:window-y="24"
+     inkscape:cx="39.906661"
+     inkscape:cy="74.664877"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      showguides="false">
@@ -6724,15 +6724,15 @@
          transform="scale(1,-1)" />
     </g>
     <g
-       style="display:inline;fill:#f13bbc"
+       style="display:inline;fill:#2293ff;fill-opacity:1"
        id="hover-bottomleft"
        transform="matrix(1.0526316,0,0,1.6666689,50.789472,-109.95972)">
       <g
          id="hover-left-2"
-         style="display:inline;opacity:1;fill:#f13bbc">
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1">
         <rect
            transform="matrix(-1,0,0,-0.461538,63.5,180.97746)"
-           style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+           style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
            y="12"
            x="31"
            height="13.000001"
@@ -6741,15 +6741,15 @@
       </g>
     </g>
     <g
-       style="display:inline;fill:#f13bbc"
+       style="display:inline;fill:#2293ff;fill-opacity:1"
        id="hover-bottom"
        transform="matrix(0.86538442,0,0,1.6666689,57.375007,-109.95972)">
       <g
          id="hover-left-2-1"
-         style="display:inline;opacity:1;fill:#f13bbc">
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1">
         <rect
            transform="matrix(-2.6,0,0,-0.461538,139.1,180.97746)"
-           style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+           style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
            y="12"
            x="31"
            height="13"
@@ -6758,15 +6758,15 @@
       </g>
     </g>
     <g
-       style="display:inline;fill:#f13bbc"
+       style="display:inline;fill:#2293ff;fill-opacity:1"
        id="hover-bottomright"
        transform="matrix(1.1111111,0,0,1.6666689,43.499999,-109.95972)">
       <g
          id="hover-left-2-1-7"
-         style="display:inline;opacity:1;fill:#f13bbc">
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1">
         <rect
            transform="matrix(-0.95,0,0,-0.461538,97.45,180.97746)"
-           style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+           style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
            y="12"
            x="31.526316"
            height="13"
@@ -6776,11 +6776,11 @@
     </g>
     <g
        id="hover-left"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.0526316,0,0,0.76923077,50.789472,41.601309)">
       <rect
          transform="rotate(180,31.75,90.7195)"
-         style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="12"
          x="31"
          height="13"
@@ -6789,11 +6789,11 @@
     </g>
     <g
        id="hover-right"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.1111111,0,0,0.76923077,43.499998,41.601309)">
       <rect
          transform="rotate(180,13.75,72.2195)"
-         style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="-25"
          x="-40"
          height="13"
@@ -6802,11 +6802,11 @@
     </g>
     <g
        id="hover-center"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.86538442,0,0,0.76923077,57.375002,41.601309)">
       <rect
          transform="matrix(0.962963,0,0,1,27.68519,152.339)"
-         style="color:#3daee9;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="4.0999999"
          x="5"
          height="13"
@@ -6815,21 +6815,21 @@
     </g>
     <g
        id="hover-top"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.86538442,0,0,0.3333328,57.375007,109.29275)">
       <path
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          d="m 32.5,153.439 c 0,0 0,1 0,1 0,0 0,2 0,2 0,0 26,0 26,0 0,0 0,-2 0,-2 0,0 0,-1 0,-1 0,0 -26,0 -26,0 0,0 0,0 0,0"
          id="rect4997-3-95" />
     </g>
     <g
        id="hover-topleft"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.0526316,0,0,0.3333328,50.789472,109.29275)">
       <rect
          transform="rotate(90,-60.4695,110.9695)"
-         style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="18"
          x="-18"
          height="9.5"
@@ -6838,11 +6838,11 @@
     </g>
     <g
        id="hover-topright"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.1111111,0,0,0.3333328,43.499998,109.29275)">
       <rect
          transform="rotate(90,-40.4695,130.9695)"
-         style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="23"
          x="-18"
          height="9"
@@ -6858,14 +6858,14 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <g
        id="normal-bottomleft"
-       style="display:inline;fill:#f13bbc"
+       style="display:inline;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.0526316,0,0,1.6666683,50.789472,-93.292915)">
       <g
          id="hover-left-2-6"
-         style="display:inline;opacity:1;fill:#f13bbc">
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1">
         <rect
            transform="matrix(-1,0,0,-0.461538,63.5,155.97746)"
-           style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+           style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
            y="12"
            x="31"
            height="13.000001"
@@ -6875,14 +6875,14 @@
     </g>
     <g
        id="normal-bottom"
-       style="display:inline;fill:#f13bbc"
+       style="display:inline;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.86538463,0,0,1.6666683,57.374997,-93.292922)">
       <g
          id="hover-left-2-1-4"
-         style="display:inline;opacity:1;fill:#f13bbc">
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1">
         <rect
            transform="matrix(-2.6,0,0,-0.461538,139.1,155.97746)"
-           style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+           style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
            y="12"
            x="31"
            height="13"
@@ -6892,14 +6892,14 @@
     </g>
     <g
        id="normal-bottomright"
-       style="display:inline;fill:#f13bbc"
+       style="display:inline;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.1111111,0,0,1.6666683,43.499999,-93.292922)">
       <g
          id="hover-left-2-1-7-3"
-         style="display:inline;opacity:1;fill:#f13bbc">
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1">
         <rect
            transform="matrix(-0.95,0,0,-0.461538,97.45,155.97746)"
-           style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+           style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
            y="12"
            x="31.526316"
            height="13"
@@ -6910,11 +6910,11 @@
     <g
        inkscape:label="normal-left"
        id="normal-left"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.0526316,0,0,0.76923077,50.789472,35.832079)">
       <rect
          transform="rotate(180,31.75,78.2195)"
-         style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="12"
          x="31"
          height="13"
@@ -6923,11 +6923,11 @@
     </g>
     <g
        id="normal-right"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.1111111,0,0,0.76923077,43.499998,35.832079)">
       <rect
          transform="rotate(180,13.75,59.7195)"
-         style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="-25"
          x="-40"
          height="13"
@@ -6936,11 +6936,11 @@
     </g>
     <g
        id="normal-center"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.86538442,0,0,0.76923077,57.375002,35.832079)">
       <rect
          transform="matrix(0.962963,0,0,1,27.68519,127.339)"
-         style="color:#3daee9;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="4.0999999"
          x="5"
          height="13"
@@ -6949,21 +6949,21 @@
     </g>
     <g
        id="normal-top"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.86538442,0,0,0.3333328,57.375007,92.626072)">
       <path
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          d="m 32.5,128.439 c 0,0 0,1 0,1 0,0 0,2 0,2 0,0 26,0 26,0 0,0 0,-2 0,-2 0,0 0,-1 0,-1 0,0 -26,0 -26,0 0,0 0,0 0,0"
          id="rect4997-3-95-5" />
     </g>
     <g
        id="normal-topleft"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.0526316,0,0,0.3333328,50.789472,92.626072)">
       <rect
          transform="rotate(90,-47.9695,98.4695)"
-         style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="18"
          x="-18"
          height="9.5"
@@ -6972,11 +6972,11 @@
     </g>
     <g
        id="normal-topright"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.1111111,0,0,0.3333328,43.499998,92.626072)">
       <rect
          transform="rotate(90,-27.9695,118.4695)"
-         style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="23"
          x="-18"
          height="9"
@@ -6985,14 +6985,14 @@
     </g>
     <g
        id="focus-bottomleft"
-       style="display:inline;fill:#f13bbc"
+       style="display:inline;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.0526316,0,0,1.6666682,50.789472,-76.626197)">
       <g
          id="hover-left-2-9"
-         style="display:inline;opacity:1;fill:#f13bbc">
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1">
         <rect
            transform="matrix(-1,0,0,-0.461538,63.5,130.97746)"
-           style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+           style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
            y="12"
            x="31"
            height="13.000001"
@@ -7002,14 +7002,14 @@
     </g>
     <g
        id="focus-bottom"
-       style="display:inline;fill:#f13bbc"
+       style="display:inline;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.86538442,0,0,1.6666683,57.375007,-76.62621)">
       <g
          id="hover-left-2-1-49"
-         style="display:inline;opacity:1;fill:#f13bbc">
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1">
         <rect
            transform="matrix(-2.6,0,0,-0.461538,139.1,130.97746)"
-           style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+           style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
            y="12"
            x="31"
            height="13"
@@ -7019,14 +7019,14 @@
     </g>
     <g
        id="focus-bottomright"
-       style="display:inline;fill:#f13bbc"
+       style="display:inline;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.1111111,0,0,1.6666683,43.499999,-76.62621)">
       <g
          id="hover-left-2-1-7-7"
-         style="display:inline;opacity:1;fill:#f13bbc">
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1">
         <rect
            transform="matrix(-0.95,0,0,-0.461538,97.45,130.97746)"
-           style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+           style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
            y="12"
            x="31.526316"
            height="13"
@@ -7037,11 +7037,11 @@
     <g
        inkscape:label="#focus-left"
        id="focus-left"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.0526316,0,0,0.76923076,50.789471,30.062849)">
       <rect
          transform="rotate(180,31.75,65.7195)"
-         style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="12"
          x="31"
          height="13"
@@ -7050,11 +7050,11 @@
     </g>
     <g
        id="focus-right"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.1111111,0,0,0.76923076,43.499997,30.062849)">
       <rect
          transform="rotate(180,13.75,47.2195)"
-         style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="-25"
          x="-40"
          height="13"
@@ -7063,11 +7063,11 @@
     </g>
     <g
        id="focus-center"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.86538442,0,0,0.76923076,57.375002,30.062849)">
       <rect
          transform="matrix(0.962963,0,0,1,27.68519,102.339)"
-         style="color:#3daee9;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="4.0999999"
          x="5"
          height="13"
@@ -7076,21 +7076,21 @@
     </g>
     <g
        id="focus-top"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.86538442,0,0,0.33333333,57.375007,75.959332)">
       <path
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          d="m 32.5,103.439 c 0,0 0,1 0,1 0,0 0,2 0,2 0,0 26,0 26,0 0,0 0,-2 0,-2 0,0 0,-1 0,-1 0,0 -26,0 -26,0 0,0 0,0 0,0"
          id="rect4997-3-95-1" />
     </g>
     <g
        id="focus-topleft"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.0526316,0,0,0.33333333,50.789471,75.959332)">
       <rect
          transform="rotate(90,-35.4695,85.9695)"
-         style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="18"
          x="-18"
          height="9.5"
@@ -7099,11 +7099,11 @@
     </g>
     <g
        id="focus-topright"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.1111111,0,0,0.3333328,43.499998,75.959392)">
       <rect
          transform="rotate(90,-15.4695,105.9695)"
-         style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="23"
          x="-18"
          height="9"
@@ -7128,7 +7128,7 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <g
        id="progress-bottom"
-       style="display:inline;fill:#f13bbc"
+       style="display:inline;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.86538462,0,0,0.16666821,57.374997,90.699022)">
       <rect
          transform="translate(27.5,71.439)"
@@ -7137,16 +7137,16 @@
          height="6"
          width="26"
          id="rect5050-4"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f13bbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
     <g
        inkscape:label="#progress-left"
        id="progress-left"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1,0,0,1.4615385,52.499998,-32.08723)">
       <rect
          transform="rotate(180,31.75,53.2195)"
-         style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="12"
          x="31"
          height="13"
@@ -7155,11 +7155,11 @@
     </g>
     <g
        id="progress-right"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.0526316,0,0,1.4615385,46.921051,-32.08723)">
       <rect
          transform="rotate(180,13.75,34.7195)"
-         style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="-25"
          x="-40.5"
          height="13"
@@ -7168,11 +7168,11 @@
     </g>
     <g
        id="progress-center"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.86538458,0,0,1.4615385,57.374994,-32.08723)">
       <rect
          transform="matrix(0.962963,0,0,1,27.68519,77.339)"
-         style="color:#3daee9;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="4.0999999"
          x="5"
          height="13"
@@ -7181,21 +7181,21 @@
     </g>
     <g
        id="progress-top"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.8653846,0,0,0.3333328,57.374998,59.292712)">
       <path
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          d="m 32.5,78.439 c 0,0 0,1 0,1 0,0 0,2 0,2 0,0 26,0 26,0 0,0 0,-2 0,-2 0,0 0,-1 0,-1 0,0 -26,0 -26,0 0,0 0,0 0,0"
          id="rect4997-3-95-1-4" />
     </g>
     <g
        id="progress-topleft"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1,0,0,0.3333328,52.499998,59.292712)">
       <rect
          transform="rotate(90,-22.9695,73.4695)"
-         style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="18"
          x="-18"
          height="10"
@@ -7204,11 +7204,11 @@
     </g>
     <g
        id="progress-topright"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1.0526316,0,0,0.3333328,46.921051,59.292712)">
       <rect
          transform="rotate(90,-2.9695,93.4695)"
-         style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="22.5"
          x="-18"
          height="9.5"
@@ -7230,7 +7230,7 @@
        height="4"
        width="2"
        id="hover-hint-bottom-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6113"
        y="165.939"
@@ -7238,7 +7238,7 @@
        height="2"
        width="4"
        id="hover-hint-left-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6113-3"
        y="165.939"
@@ -7246,7 +7246,7 @@
        height="2"
        width="4"
        id="hover-hint-right-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6111-3"
        y="160.439"
@@ -7254,7 +7254,7 @@
        height="4"
        width="2"
        id="hover-hint-top-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6111"
        y="153.439"
@@ -7262,7 +7262,7 @@
        height="4"
        width="2"
        id="normal-hint-bottom-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6113"
        y="140.939"
@@ -7270,7 +7270,7 @@
        height="2"
        width="4"
        id="normal-hint-left-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6113-3"
        y="140.939"
@@ -7278,7 +7278,7 @@
        height="2"
        width="4"
        id="normal-hint-right-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6111-3"
        y="135.439"
@@ -7286,7 +7286,7 @@
        height="4"
        width="2"
        id="normal-hint-top-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6111"
        y="128.439"
@@ -7294,7 +7294,7 @@
        height="4"
        width="2"
        id="focus-hint-bottom-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6113"
        y="115.939"
@@ -7302,7 +7302,7 @@
        height="2"
        width="4"
        id="focus-hint-left-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6113-3"
        y="115.939"
@@ -7310,7 +7310,7 @@
        height="2"
        width="4"
        id="focus-hint-right-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6111-3"
        y="110.439"
@@ -7318,10 +7318,10 @@
        height="4"
        width="2"
        id="focus-hint-top-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <g
        id="attention-bottomleft"
-       style="display:inline;fill:#f13bbc"
+       style="display:inline;fill:#2293ff;fill-opacity:1"
        transform="matrix(19.999998,0,0,10.000041,-374.99997,-1796.9592)">
       <rect
          transform="matrix(1,0,0,0.166666,50.500001,194.27236)"
@@ -7330,18 +7330,18 @@
          height="6"
          width="0.5"
          id="rect5231-7-0"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f13bbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
     <g
        id="attention-bottom"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.50561786,0,0,10,73.870784,-1796.951)">
       <g
          id="hover-left-2-1-4-2"
-         style="display:inline;opacity:1;fill:#f13bbc">
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1">
         <rect
            transform="matrix(-4.45,0,0,-0.076923,205.45001,201.36207)"
-           style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+           style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
            y="12"
            x="31"
            height="13"
@@ -7351,11 +7351,11 @@
     </g>
     <g
        id="attention-bottomright"
-       style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(20,0,0,9.9999797,-1241.5,-1796.9469)">
       <rect
          transform="matrix(1,0,0,0.166667,27.5,196.93899)"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f13bbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="rect5225-0-9"
          width="0.5"
          height="6"
@@ -7365,7 +7365,7 @@
     <g
        inkscape:label="#attention-left"
        id="attention-left"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(20,0,0,0.50000017,-375.00002,97.219472)">
       <rect
          transform="matrix(1,0,0,1.538461,63.500001,217.90053)"
@@ -7374,11 +7374,11 @@
          height="13"
          width="0.5"
          id="rect5233-6-9"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f13bbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
     <g
        id="attention-right"
-       style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(20,0,0,0.50000018,-1241.5,97.219462)">
       <rect
          transform="matrix(1,0,0,1.538461,27.5,160.97748)"
@@ -7387,15 +7387,15 @@
          height="13"
          width="0.5"
          id="rect5227-7-4"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f13bbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
     <g
        id="attention-center"
-       style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.50561786,0,0,0.49999977,73.87079,97.21954)">
       <rect
          transform="matrix(1.648148,0,0,1.538462,14.75926,173.13131)"
-         style="color:#3daee9;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="color:#3daee9;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="4.0999999"
          x="5"
          height="13"
@@ -7404,17 +7404,17 @@
     </g>
     <g
        id="attention-top"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.50561786,0,0,1,73.870788,6.9999976)">
       <path
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          d="m 23.000002,178.439 c 0,0 0,0.33334 0,0.33334 0,0 0,0.66666 0,0.66666 0,0 44.500002,0 44.500002,0 0,0 0,-0.66666 0,-0.66666 0,0 0,-0.33334 0,-0.33334 0,0 -44.500002,0 -44.500002,0 0,0 0,0 0,0"
          id="rect4997-3-95-5-4" />
     </g>
     <g
        id="attention-topleft"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(19.999998,0,0,1,-374.99997,7.0000016)">
       <rect
          transform="matrix(1,0,0,0.333335,50.500001,184.43903)"
@@ -7423,11 +7423,11 @@
          height="3"
          width="0.5"
          id="rect5235-4-2"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f13bbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
     <g
        id="attention-topright"
-       style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(20,0,0,1,-1241.5,7.0000036)">
       <rect
          transform="matrix(1,0,0,0.333335,90.5,184.43903)"
@@ -7436,7 +7436,7 @@
          height="3"
          width="0.5"
          id="rect5229-0-3"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f13bbc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
     <rect
        inkscape:label="#rect6111"
@@ -7445,7 +7445,7 @@
        height="4"
        width="2"
        id="attention-hint-bottom-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6113"
        y="190.939"
@@ -7453,7 +7453,7 @@
        height="2"
        width="4"
        id="attention-hint-left-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6113-3"
        y="190.939"
@@ -7461,7 +7461,7 @@
        height="2"
        width="4"
        id="attention-hint-right-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6111-3"
        y="185.439"
@@ -7469,7 +7469,7 @@
        height="4"
        width="2"
        id="attention-hint-top-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        y="185.439"
        x="67.5"
@@ -7479,11 +7479,11 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <g
        id="progress-bottomleft"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(1,0,0,0.33333641,52.499998,80.292422)">
       <rect
          transform="rotate(90,-22.9695,73.4695)"
-         style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="18"
          x="-18"
          height="10"
@@ -7492,11 +7492,11 @@
     </g>
     <g
        id="progress-bottomright"
-       style="display:inline;opacity:1;fill:#f13bbc"
+       style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1"
        transform="matrix(0.99999982,0,0,0.33333652,86.000002,80.292422)">
       <rect
          transform="rotate(90,-22.9695,73.4695)"
-         style="display:inline;opacity:1;fill:#f13bbc;fill-opacity:1;stroke:none"
+         style="display:inline;opacity:1;fill:#2293ff;fill-opacity:1;stroke:none"
          y="18"
          x="-18"
          height="10"
@@ -7510,7 +7510,7 @@
        height="2"
        width="6"
        id="hint-left-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6113-3"
        y="95.439003"
@@ -7518,7 +7518,7 @@
        height="2"
        width="6"
        id="hint-right-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6111"
        y="101.43902"
@@ -7526,7 +7526,7 @@
        height="6"
        width="2"
        id="hint-bottom-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        inkscape:label="#rect6111-3"
        y="85.439003"
@@ -7534,6 +7534,6 @@
        height="6"
        width="2"
        id="hint-top-margin"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f99133;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2293ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
   </g>
 </svg>
