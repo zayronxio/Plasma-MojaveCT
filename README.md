@@ -1,4 +1,3 @@
-
 ![MojaveCT](https://github.com/zayronxio/Plasma-MojaveCT/blob/master/preview/rect888.png?raw=true)
 ## Features
 - Compatible with the other "CT" products.
@@ -9,8 +8,7 @@
 ## Download
 
 you can download the latest version of this theme in kde-store.
-[<img src="https://github.com/zayronxio/Plasma-MojaveCT/blob/master/preview/donwload-kde-store.svg">](https://www.opendesktop.org/p/1289021/)
-
+[<img src="https://raw.github.com/zayronxio/Plasma-MojaveCT/master/preview/download-kde-store.svg?sanitize=true">](https://www.opendesktop.org/p/1289021/)
 
 
 
