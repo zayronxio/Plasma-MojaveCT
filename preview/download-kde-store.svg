@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="512"
+   height="192"
+   viewBox="0 0 135.46666 50.800002"
    version="1.1"
    id="svg956"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
+     inkscape:zoom="0.35"
      inkscape:cx="-231.42857"
-     inkscape:cy="560"
+     inkscape:cy="388.57143"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,8 @@
      inkscape:window-height="1027"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="px" />
   <metadata
      id="metadata953">
     <rdf:RDF>
@@ -51,18 +52,19 @@
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-246.19996)">
     <rect
-       style="opacity:1;fill:#2c2c2c;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:#2c2c2c;fill-opacity:1;stroke:none;stroke-width:0.81163585;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect1520"
-       width="219.22618"
-       height="76.351196"
-       x="-44.601189"
-       y="74.75"
-       rx="16.630953"
-       ry="16.630953" />
+       width="134.49963"
+       height="46.842991"
+       x="0.33212173"
+       y="248.64513"
+       rx="10.203423"
+       ry="10.203423" />
     <g
-       transform="matrix(1.5208601,0,0,1.5208601,-30.49461,-313.88326)"
+       transform="matrix(0.93307811,0,0,0.93307811,8.98679,10.210831)"
        id="layer1-6"
        inkscape:label="Layer 1">
       <rect
@@ -80,14 +82,14 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.1569519px;line-height:125%;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.67892379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="31.53484"
-       y="122.82436"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.66133308px;line-height:125%;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41653332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="47.043102"
+       y="278.13971"
        id="text1535"><tspan
          sodipodi:role="line"
          id="tspan1533"
-         x="31.53484"
-         y="122.82436"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#ffffff;stroke-width:0.67892379px">Download</tspan></text>
+         x="47.043102"
+         y="278.13971"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#ffffff;stroke-width:0.41653332px">Download</tspan></text>
   </g>
 </svg>
