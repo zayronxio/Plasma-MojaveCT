@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="192"
-   viewBox="0 0 135.46666 50.800002"
+   width="230"
+   height="88"
+   viewBox="0 0 60.854164 23.283334"
    version="1.1"
    id="svg956"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-231.42857"
-     inkscape:cy="388.57143"
+     inkscape:zoom="1.979899"
+     inkscape:cx="55.802258"
+     inkscape:cy="138.0536"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,18 +53,18 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-246.19996)">
+     transform="translate(0,-273.71663)">
     <rect
-       style="opacity:1;fill:#2c2c2c;fill-opacity:1;stroke:none;stroke-width:0.81163585;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:#2c2c2c;fill-opacity:1;stroke:none;stroke-width:0.36243787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect1520"
-       width="134.49963"
-       height="46.842991"
+       width="60.061123"
+       height="20.917847"
        x="0.33212173"
-       y="248.64513"
-       rx="10.203423"
-       ry="10.203423" />
+       y="275.3721"
+       rx="4.5563622"
+       ry="4.5563622" />
     <g
-       transform="matrix(0.93307811,0,0,0.93307811,8.98679,10.210831)"
+       transform="matrix(0.4166682,0,0,0.4166682,4.196884,168.89869)"
        id="layer1-6"
        inkscape:label="Layer 1">
       <rect
@@ -82,14 +82,14 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.66133308px;line-height:125%;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41653332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="47.043102"
-       y="278.13971"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.44015694px;line-height:125%;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18600392px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="21.191019"
+       y="288.54297"
        id="text1535"><tspan
          sodipodi:role="line"
          id="tspan1533"
-         x="47.043102"
-         y="278.13971"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#ffffff;stroke-width:0.41653332px">Download</tspan></text>
+         x="21.191019"
+         y="288.54297"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#ffffff;stroke-width:0.18600392px">Download</tspan></text>
   </g>
 </svg>
